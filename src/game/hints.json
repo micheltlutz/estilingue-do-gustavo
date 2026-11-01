@@ -1,0 +1,398 @@
+{
+ "SOL": [
+  {
+   "angle": 26,
+   "power": 0.987
+  },
+  {
+   "angle": 30,
+   "power": 0.987
+  },
+  {
+   "angle": 56,
+   "power": 0.787
+  }
+ ],
+ "LUA": [
+  {
+   "angle": 44,
+   "power": 0.787
+  },
+  {
+   "angle": 44,
+   "power": 0.912
+  },
+  {
+   "angle": 36,
+   "power": 0.962
+  }
+ ],
+ "UVA": [
+  {
+   "angle": 52,
+   "power": 0.6
+  },
+  {
+   "angle": 70,
+   "power": 0.875
+  },
+  {
+   "angle": 48,
+   "power": 0.937
+  }
+ ],
+ "OVO": [
+  {
+   "angle": 52,
+   "power": 0.837
+  },
+  {
+   "angle": 22,
+   "power": 0.925
+  },
+  {
+   "angle": 66,
+   "power": 0.95
+  }
+ ],
+ "MEL": [
+  {
+   "angle": 50,
+   "power": 0.937
+  },
+  {
+   "angle": 68,
+   "power": 0.862
+  },
+  {
+   "angle": 64,
+   "power": 0.9
+  }
+ ],
+ "GATO": [
+  {
+   "angle": 42,
+   "power": 0.563
+  },
+  {
+   "angle": 50,
+   "power": 0.787
+  },
+  {
+   "angle": 32,
+   "power": 0.837
+  },
+  {
+   "angle": 36,
+   "power": 0.812
+  }
+ ],
+ "PATO": [
+  {
+   "angle": 30,
+   "power": 0.587
+  },
+  {
+   "angle": 14,
+   "power": 0.987
+  },
+  {
+   "angle": 48,
+   "power": 0.887
+  },
+  {
+   "angle": 46,
+   "power": 0.85
+  }
+ ],
+ "BOLA": [
+  {
+   "angle": 40,
+   "power": 0.812
+  },
+  {
+   "angle": 14,
+   "power": 0.987
+  },
+  {
+   "angle": 68,
+   "power": 0.875
+  },
+  {
+   "angle": 42,
+   "power": 0.9
+  }
+ ],
+ "SAPO": [
+  {
+   "angle": 18,
+   "power": 0.962
+  },
+  {
+   "angle": 14,
+   "power": 0.862
+  },
+  {
+   "angle": 64,
+   "power": 0.837
+  },
+  {
+   "angle": 48,
+   "power": 0.862
+  }
+ ],
+ "CASA": [
+  {
+   "angle": 24,
+   "power": 0.662
+  },
+  {
+   "angle": 18,
+   "power": 0.975
+  },
+  {
+   "angle": 54,
+   "power": 0.9
+  },
+  {
+   "angle": 38,
+   "power": 0.85
+  }
+ ],
+ "VACA": [
+  {
+   "angle": 32,
+   "power": 0.575
+  },
+  {
+   "angle": 12,
+   "power": 0.95
+  },
+  {
+   "angle": 30,
+   "power": 0.787
+  },
+  {
+   "angle": 52,
+   "power": 0.925
+  }
+ ],
+ "FOCA": [
+  {
+   "angle": 64,
+   "power": 0.612
+  },
+  {
+   "angle": 18,
+   "power": 0.9
+  },
+  {
+   "angle": 56,
+   "power": 0.925
+  },
+  {
+   "angle": 32,
+   "power": 0.9
+  }
+ ],
+ "DADO": [
+  {
+   "angle": 20,
+   "power": 0.725
+  },
+  {
+   "angle": 70,
+   "power": 0.9
+  },
+  {
+   "angle": 26,
+   "power": 0.887
+  },
+  {
+   "angle": 38,
+   "power": 0.9
+  }
+ ],
+ "ZEBRA": [
+  {
+   "angle": 42,
+   "power": 0.95
+  },
+  {
+   "angle": 10,
+   "power": 0.925
+  },
+  {
+   "angle": 18,
+   "power": 0.925
+  },
+  {
+   "angle": 64,
+   "power": 0.937
+  },
+  {
+   "angle": 28,
+   "power": 0.975
+  }
+ ],
+ "MACACO": [
+  {
+   "angle": 0,
+   "power": 0.887
+  },
+  {
+   "angle": 70,
+   "power": 0.725
+  },
+  {
+   "angle": 48,
+   "power": 0.887
+  },
+  {
+   "angle": 36,
+   "power": 0.9
+  },
+  {
+   "angle": 22,
+   "power": 0.937
+  },
+  {
+   "angle": 56,
+   "power": 0.9
+  }
+ ],
+ "MIMI": [
+  {
+   "angle": 78,
+   "power": 0.887
+  },
+  {
+   "angle": 64,
+   "power": 0.737
+  },
+  {
+   "angle": 54,
+   "power": 0.9
+  },
+  {
+   "angle": 50,
+   "power": 0.825
+  }
+ ],
+ "PIPOCA": [
+  {
+   "angle": 66,
+   "power": 0.637
+  },
+  {
+   "angle": 36,
+   "power": 0.575
+  },
+  {
+   "angle": 70,
+   "power": 0.812
+  },
+  {
+   "angle": 60,
+   "power": 0.9
+  },
+  {
+   "angle": 66,
+   "power": 0.95
+  },
+  {
+   "angle": 66,
+   "power": 0.987
+  }
+ ],
+ "BOLINHA": [
+  {
+   "angle": 82,
+   "power": 0.987
+  },
+  {
+   "angle": 26,
+   "power": 0.6
+  },
+  {
+   "angle": 76,
+   "power": 0.925
+  },
+  {
+   "angle": 66,
+   "power": 0.925
+  },
+  {
+   "angle": 42,
+   "power": 0.937
+  },
+  {
+   "angle": 20,
+   "power": 0.975
+  },
+  {
+   "angle": 36,
+   "power": 0.887
+  }
+ ],
+ "ESTRELA": [
+  {
+   "angle": 50,
+   "power": 0.95
+  },
+  {
+   "angle": 18,
+   "power": 0.675
+  },
+  {
+   "angle": 76,
+   "power": 0.937
+  },
+  {
+   "angle": 66,
+   "power": 0.912
+  },
+  {
+   "angle": 50,
+   "power": 0.75
+  },
+  {
+   "angle": 28,
+   "power": 0.862
+  },
+  {
+   "angle": 54,
+   "power": 0.925
+  }
+ ],
+ "GUSTAVO": [
+  {
+   "angle": 42,
+   "power": 0.662
+  },
+  {
+   "angle": 28,
+   "power": 0.575
+  },
+  {
+   "angle": 8,
+   "power": 0.875
+  },
+  {
+   "angle": 68,
+   "power": 0.912
+  },
+  {
+   "angle": 56,
+   "power": 0.762
+  },
+  {
+   "angle": 22,
+   "power": 0.962
+  },
+  {
+   "angle": 60,
+   "power": 1
+  }
+ ]
+}

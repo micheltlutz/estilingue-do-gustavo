@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#E53935"/>
+  <circle cx="420" cy="92" r="40" fill="#FFE082"/>
+  <path d="M0 430 Q256 380 512 430 V512 H0 Z" fill="#7CB342"/>
+  <g stroke-linecap="round" fill="none">
+    <path d="M170 470 V330 M170 336 L120 210 M170 336 L220 210" stroke="#8D6E63" stroke-width="34"/>
+    <path d="M124 222 Q170 300 214 222" stroke="#5D4037" stroke-width="14"/>
+  </g>
+  <g transform="translate(330 220) scale(1.45)">
+    <path d="M-40 -34 Q-74 -24 -62 22 Q-52 36 -38 14 Z" fill="#C98A2B"/>
+    <path d="M40 -34 Q74 -24 62 22 Q52 36 38 14 Z" fill="#C98A2B"/>
+    <circle r="50" fill="#F0B44C"/>
+    <ellipse cy="-28" rx="26" ry="13" fill="#F8CF78"/>
+    <ellipse cy="18" rx="27" ry="20" fill="#FCE6BA"/>
+    <circle cx="-18" cy="-6" r="8.5" fill="#3E2723"/><circle cx="18" cy="-6" r="8.5" fill="#3E2723"/>
+    <circle cx="-15" cy="-9.5" r="3" fill="#fff"/><circle cx="21" cy="-9.5" r="3" fill="#fff"/>
+    <ellipse cy="9" rx="10" ry="7" fill="#3E2723"/>
+    <path d="M-12 21 Q0 38 12 21 Z" fill="#5D4037"/><path d="M-6 28 Q0 35 6 28 Q0 25 -6 28 Z" fill="#FF8A80"/>
+  </g>
+  <g fill="#fff" opacity=".9"><circle cx="232" cy="300" r="10"/><circle cx="208" cy="330" r="7"/><circle cx="190" cy="356" r="5"/></g>
+  <g transform="translate(410 330)"><circle r="44" fill="#1E88E5" stroke="#fff" stroke-width="8"/><text y="20" text-anchor="middle" font-family="Arial Rounded MT Bold, Arial, sans-serif" font-weight="900" font-size="58" fill="#fff">A</text></g>
+</svg>
